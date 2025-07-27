@@ -1,0 +1,20 @@
+# === Python ===
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# === VSCode ===
+.vscode/
+
+# === Node/Vue/Frontend (just in case) ===
+node_modules/
+dist/
+build/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
